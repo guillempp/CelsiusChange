@@ -1,4 +1,6 @@
 CelsiusChange
 =============
 
-This is a little program for changing Celsius degrees to Fahrenheit degrees.
+This is a little program for converting Celsius degrees to Fahrenheit degrees.
+
+Written when I was 13! 
